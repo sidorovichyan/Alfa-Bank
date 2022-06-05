@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ru" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>AlfaBank</title>
+</head>
+<body>
+
+<div style="width: 100%;font-weight: 600;padding: 5px;text-align: center">Курс вчера: <span th:text="${yesterday}"></span></div>
+<div style="width: 100%;font-weight: 600;padding: 5px;text-align: center">Курс сегодня: <span th:text="${now}"></span></div>
+<div style="width: 100%;height: auto;text-align: center"><img th:src="${url}"/></div>
+
+</body>
+</html>

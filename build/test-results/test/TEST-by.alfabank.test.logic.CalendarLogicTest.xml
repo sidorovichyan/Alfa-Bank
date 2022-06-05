@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.alfabank.test.logic.CalendarLogicTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-05T09:09:27" hostname="LAPTOP-D57P60Q1" time="0.003">
+  <properties/>
+  <testcase name="getTodayTest()" classname="by.alfabank.test.logic.CalendarLogicTest" time="0.001"/>
+  <testcase name="getYesterdayDateStringTest()" classname="by.alfabank.test.logic.CalendarLogicTest" time="0.001"/>
+  <system-out><![CDATA[2022-06-04
+2022-06-04
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
